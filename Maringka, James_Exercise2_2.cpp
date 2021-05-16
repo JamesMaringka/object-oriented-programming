@@ -8,7 +8,7 @@ class Tollbooth{
     	double money;
 
     public:
-  		Tolbooth(){
+  		Tollbooth(){
 			car = 0;
 			money = 0;
     	}
